@@ -1,9 +1,2 @@
-/* 0-debug_log.scss */
-/* Always debugging! */
-
-body {
-    margin: 0;
-  }
-  
-  @debug "Hello world";
-  
+/* Print Hello World in the debug output */
+@debug "Hello world";
